@@ -1,0 +1,1222 @@
+[
+  {
+    "street": "Dreimühlenstraße 42",
+    "zip": 81371,
+    "city": "München"
+  },
+  {
+    "street": "Albert-Roßhaupter-Straße 35-39",
+    "zip": 81369,
+    "city": "München"
+  },
+  {
+    "street": "Schwanthalerstraße 31",
+    "zip": 80336,
+    "city": "München"
+  },
+  {
+    "street": "Elisenstraße 3",
+    "zip": 80335,
+    "city": "München"
+  },
+  {
+    "street": "Hackerbrücke 4",
+    "zip": 80335,
+    "city": "München"
+  },
+  {
+    "street": "Westendstraße 100",
+    "zip": 80339,
+    "city": "München"
+  },
+  {
+    "street": "Zweibrückenstraße 8",
+    "zip": 80331,
+    "city": "München"
+  },
+  {
+    "street": "Tübinger Str. 9",
+    "zip": 80686,
+    "city": "München"
+  },
+  {
+    "street": "Hofmannstraße 16",
+    "zip": 81379,
+    "city": "München"
+  },
+  {
+    "street": "Theresienhöhe 5",
+    "zip": 80339,
+    "city": "München"
+  },
+  {
+    "street": "Dachauer Str. 92",
+    "zip": 80335,
+    "city": "München"
+  },
+  {
+    "street": "Nymphenburger Str. 81",
+    "zip": 80636,
+    "city": "München"
+  },
+  {
+    "street": "Orleanspl. 7",
+    "zip": 81667,
+    "city": "München"
+  },
+  {
+    "street": "Kistlerhofstraße 152",
+    "zip": 81379,
+    "city": "München"
+  },
+  {
+    "street": "Kirchenstraße 86",
+    "zip": 81675,
+    "city": "München"
+  },
+  {
+    "street": "Luisenstraße 51-53",
+    "zip": 80333,
+    "city": "München"
+  },
+  {
+    "street": "Leopoldstraße 21",
+    "zip": 80802,
+    "city": "München"
+  },
+  {
+    "street": "Landsberger Str. 378",
+    "zip": 80687,
+    "city": "München"
+  },
+  {
+    "street": "Balanstraße 188",
+    "zip": 81549,
+    "city": "München"
+  },
+  {
+    "street": "Schleißheimer Str. 85-87",
+    "zip": 80797,
+    "city": "München"
+  },
+  {
+    "street": "Knorrstraße 57",
+    "zip": 80807,
+    "city": "München"
+  },
+  {
+    "street": "Fürstenrieder Str. 220",
+    "zip": 81377,
+    "city": "München"
+  },
+  {
+    "street": "Biberger Str. 64",
+    "zip": 82008,
+    "city": "Unterhaching"
+  },
+  {
+    "street": "Weihenstephaner Str. 32",
+    "zip": 81673,
+    "city": "München"
+  },
+  {
+    "street": "Leopoldstraße 144",
+    "zip": 80804,
+    "city": "München"
+  },
+  {
+    "street": "Grafinger Str. 29",
+    "zip": 81671,
+    "city": "München"
+  },
+  {
+    "street": "Menzinger Str. 85",
+    "zip": 80992,
+    "city": "München"
+  },
+  {
+    "street": "Pelkovenstraße 152",
+    "zip": 80992,
+    "city": "München"
+  },
+  {
+    "street": "Frankfurter Ring 5",
+    "zip": 80807,
+    "city": "München"
+  },
+  {
+    "street": "Freischützstraße 46",
+    "zip": 81927,
+    "city": "München"
+  },
+  {
+    "street": "Heimburgstraße 9-15",
+    "zip": 81243,
+    "city": "München"
+  },
+  {
+    "street": "Dachauer Str. 380",
+    "zip": 80993,
+    "city": "München"
+  },
+  {
+    "street": "Grünwalder Weg 14",
+    "zip": 82008,
+    "city": "Unterhaching"
+  },
+  {
+    "street": "Corinthstraße 3",
+    "zip": 81825,
+    "city": "München"
+  },
+  {
+    "street": "Ingolstädter Str. 170",
+    "zip": 80939,
+    "city": "München"
+  },
+  {
+    "street": "Oskar-Maria-Graf-Ring 17",
+    "zip": 81737,
+    "city": "München"
+  },
+  {
+    "street": "Truderinger Str. 190",
+    "zip": 81825,
+    "city": "München"
+  },
+  {
+    "street": "Brunhamstraße 18",
+    "zip": 81249,
+    "city": "München"
+  },
+  {
+    "street": "Wilhelm-Kemmelmeyer-Bogen 16",
+    "zip": 85774,
+    "city": "Unterföhring"
+  },
+  {
+    "street": "Behringstraße 2b",
+    "zip": 82152,
+    "city": "Planegg"
+  },
+  {
+    "street": "Siemensstraße 2",
+    "zip": 85521,
+    "city": "Ottobrunn"
+  },
+  {
+    "street": "Paul-Gerhardt-Allee 34-36",
+    "zip": 81245,
+    "city": "München"
+  },
+  {
+    "street": "Planegger Str. 2",
+    "zip": 81241,
+    "city": "München"
+  },
+  {
+    "street": "Nailastraße 21",
+    "zip": 81737,
+    "city": "München"
+  },
+  {
+    "street": "Ohmstraße 5",
+    "zip": 85609,
+    "city": "Aschheim"
+  },
+  {
+    "street": "Nawiaskystraße 3",
+    "zip": 81735,
+    "city": "München"
+  },
+  {
+    "street": "Bodenseestraße 331",
+    "zip": 81249,
+    "city": "München"
+  },
+  {
+    "street": "Industriestraße 19",
+    "zip": 82110,
+    "city": "Germering"
+  },
+  {
+    "street": "Schleißheimer Str. 466/468",
+    "zip": 80797,
+    "city": "München"
+  },
+  {
+    "street": "Wolfratshauser Str. 110",
+    "zip": 82049,
+    "city": "Pullach im Isartal"
+  },
+  {
+    "street": "Georg-Reismüller-Straße 28",
+    "zip": 80999,
+    "city": "München"
+  },
+  {
+    "street": "Zusestraße 5",
+    "zip": 85649,
+    "city": "Brunnthal"
+  },
+  {
+    "street": "Nibelungenstraße 4",
+    "zip": 85757,
+    "city": "Karlsfeld"
+  },
+  {
+    "street": "Olchinger Str. 62",
+    "zip": 82194,
+    "city": "Gröbenzell"
+  },
+  {
+    "street": "Sonnenstraße 13",
+    "zip": 85764,
+    "city": "Oberschleißheim"
+  },
+  {
+    "street": "Bergsonstraße 147",
+    "zip": 81245,
+    "city": "München"
+  },
+  {
+    "street": "Gewerbegebiet Nord, Siemensstraße 2",
+    "zip": 82178,
+    "city": "Puchheim"
+  },
+  {
+    "street": "Osterfeldstraße 39",
+    "zip": 85737,
+    "city": "Ismaning"
+  },
+  {
+    "street": "Münchner Str. 85",
+    "zip": 85640,
+    "city": "Putzbrunn"
+  },
+  {
+    "street": "Landshuter Str. 19B",
+    "zip": 85716,
+    "city": "Unterschleißheim"
+  },
+  {
+    "street": "a. See 13",
+    "zip": 85540,
+    "city": "Haar"
+  },
+  {
+    "street": "Ludwig-Dill-Straße 69",
+    "zip": 85221,
+    "city": "Dachau"
+  },
+  {
+    "street": "Wettersteinring 7",
+    "zip": 85221,
+    "city": "Dachau"
+  },
+  {
+    "street": "Keplerstraße 4",
+    "zip": 85221,
+    "city": "Dachau"
+  },
+  {
+    "street": "Fraunhoferstraße 2",
+    "zip": 85551,
+    "city": "Kirchheim bei München"
+  },
+  {
+    "street": "Freisinger Landstraße 45",
+    "zip": 85748,
+    "city": "Garching bei München"
+  },
+  {
+    "street": "Rainfarnstraße 48-52",
+    "zip": 80933,
+    "city": "München"
+  },
+  {
+    "street": "Hermann-Böcker-Straße 2",
+    "zip": 82140,
+    "city": "Olching"
+  },
+  {
+    "street": "Starnberger Str. 38",
+    "zip": 82131,
+    "city": "Gauting"
+  },
+  {
+    "street": "Gautinger Str. 37",
+    "zip": 82319,
+    "city": "Starnberg"
+  },
+  {
+    "street": "Gruber Str. 59c",
+    "zip": 85586,
+    "city": "Poing"
+  },
+  {
+    "street": "Landsberger Str. 16",
+    "zip": 82205,
+    "city": "Gilching"
+  },
+  {
+    "street": "Ludwig-Bölkow-Straße 3",
+    "zip": 82054,
+    "city": "Sauerlach"
+  },
+  {
+    "street": "Maisacher Str. 61",
+    "zip": 82216,
+    "city": "Maisach"
+  },
+  {
+    "street": "Dieselstraße 35",
+    "zip": 85386,
+    "city": "Eching"
+  },
+  {
+    "street": "Margeritenstraße 6",
+    "zip": 82515,
+    "city": "Wolfratshausen"
+  },
+  {
+    "street": "Maisacher Str. 122",
+    "zip": 82256,
+    "city": "Fürstenfeldbruck"
+  },
+  {
+    "street": "Zubringer",
+    "zip": "A31",
+    "city": 83088
+  },
+  {
+    "street": "Kurt-Huber-Ring 17",
+    "zip": 82256,
+    "city": "Fürstenfeldbruck"
+  },
+  {
+    "street": "Industriestraße 31",
+    "zip": 83607,
+    "city": "Holzkirchen"
+  },
+  {
+    "street": "Gewerbestraße 1",
+    "zip": 85229,
+    "city": "Markt Indersdorf"
+  },
+  {
+    "street": "Erdinger Str. 34",
+    "zip": 85646,
+    "city": "Anzing"
+  },
+  {
+    "street": "Am Mitterfeld 1",
+    "zip": 85614,
+    "city": "Kirchseeon"
+  },
+  {
+    "street": "Clemensänger-Ring 26",
+    "zip": 85356,
+    "city": "Freising"
+  },
+  {
+    "street": "Karwendelring 3",
+    "zip": 85354,
+    "city": "Freising"
+  },
+  {
+    "street": "Otto-Hahn-Straße 25",
+    "zip": 85435,
+    "city": "Erding"
+  },
+  {
+    "street": "Anton-Huber-Straße 2",
+    "zip": 85435,
+    "city": "Erding"
+  },
+  {
+    "street": "Hauptstraße 109",
+    "zip": 82327,
+    "city": "Tutzing"
+  },
+  {
+    "street": "Jeschkenstraße 17",
+    "zip": 82538,
+    "city": "Geretsried"
+  },
+  {
+    "street": "Rudolf-Diesel-Straße 9",
+    "zip": 85235,
+    "city": "Odelzhausen"
+  },
+  {
+    "street": "Haidling 19",
+    "zip": 85567,
+    "city": "Grafing bei München"
+  },
+  {
+    "street": "Altstadtpassage z. Zt. o. Nr",
+    "zip": 85560,
+    "city": "Ebersberg"
+  },
+  {
+    "street": "Gewerbepark Altomünster, Stumpfenbacher Str. 49",
+    "zip": 85250,
+    "city": "Altomünster"
+  },
+  {
+    "street": "Töllernallee 2",
+    "zip": 82362,
+    "city": "Weilheim in Oberbayern"
+  },
+  {
+    "street": "Grube 51",
+    "zip": 82377,
+    "city": "Penzberg"
+  },
+  {
+    "street": "Gewerbepark Bwb 1",
+    "zip": 83052,
+    "city": "Bruckmühl"
+  },
+  {
+    "street": "Reichenberger Str. 41",
+    "zip": 86161,
+    "city": "Augsburg"
+  },
+  {
+    "street": "Demmeljochstraße 7",
+    "zip": 83646,
+    "city": "Bad Tölz"
+  },
+  {
+    "street": "Guldenstraße 31/1/2",
+    "zip": 86343,
+    "city": "Königsbrunn"
+  },
+  {
+    "street": "Münchner Str. 14",
+    "zip": 86438,
+    "city": "Kissing"
+  },
+  {
+    "street": "Schwaighofstraße 79",
+    "zip": 83684,
+    "city": "Tegernsee"
+  },
+  {
+    "street": "Donauring 1",
+    "zip": 86836,
+    "city": "Untermeitingen"
+  },
+  {
+    "street": "Heinrich-von-Buz-Straße 4",
+    "zip": 86153,
+    "city": "Augsburg"
+  },
+  {
+    "street": "Senefelderstraße 14",
+    "zip": 86368,
+    "city": "Gersthofen"
+  },
+  {
+    "street": "Elisabethstraße 15",
+    "zip": 85051,
+    "city": "Ingolstadt"
+  },
+  {
+    "street": "Allgäuer Str. 21",
+    "zip": 87719,
+    "city": "Mindelheim"
+  },
+  {
+    "street": "Permoserstraße 81",
+    "zip": 85057,
+    "city": "Ingolstadt"
+  },
+  {
+    "street": "Traunsteiner Str. 19",
+    "zip": 83308,
+    "city": "Trostberg"
+  },
+  {
+    "street": "Am Südpark 12",
+    "zip": 86633,
+    "city": "Neuburg an der Donau"
+  },
+  {
+    "street": "Im Moos 2",
+    "zip": 86477,
+    "city": "Adelsried"
+  },
+  {
+    "street": "Hauptstraße 24",
+    "zip": 82467,
+    "city": "Garmisch-Partenkirchen"
+  },
+  {
+    "street": "Xaver-Ernst-Siedlung 2",
+    "zip": 85080,
+    "city": "Gaimersheim"
+  },
+  {
+    "street": "Strassacker 2",
+    "zip": 86850,
+    "city": "Fischach"
+  },
+  {
+    "street": "Kochendorfer Str. 44",
+    "zip": 74172,
+    "city": "Neckarsulm"
+  },
+  {
+    "street": "Industriestraße 36",
+    "zip": 79807,
+    "city": "Lottstetten"
+  },
+  {
+    "street": "Burgkirchener Str. 16",
+    "zip": 84489,
+    "city": "Burghausen"
+  },
+  {
+    "street": "Schulhausstraße 16",
+    "zip": 91781,
+    "city": "Weißenburg in Bayern"
+  },
+  {
+    "street": "Am Sauereck 1",
+    "zip": 86732,
+    "city": "Oettingen in Bayern"
+  },
+  {
+    "street": "Im Starkfeld 59",
+    "zip": 89231,
+    "city": "Neu-Ulm"
+  },
+  {
+    "street": "Im Kränzliacker 6",
+    "zip": 79576,
+    "city": "Weil am Rhein"
+  },
+  {
+    "street": "Koblenzer Str. 33",
+    "zip": 56626,
+    "city": "Andernach"
+  },
+  {
+    "street": "In den Gernäckern 16",
+    "zip": 72636,
+    "city": "Frickenhausen"
+  },
+  {
+    "street": "Im Gewerbepark 18-20",
+    "zip": 73329,
+    "city": "Kuchen"
+  },
+  {
+    "street": "Industriestraße 2",
+    "zip": 71272,
+    "city": "Renningen"
+  },
+  {
+    "street": "Friedenstraße 94 a",
+    "zip": 10249,
+    "city": "Berlin"
+  },
+  {
+    "street": "Goldsteinstraße 157",
+    "zip": 60528,
+    "city": "Frankfurt am Main"
+  },
+  {
+    "street": "Lohstraße 2",
+    "zip": 97638,
+    "city": "Mellrichstadt"
+  },
+  {
+    "street": "Senfte 16",
+    "zip": 98527,
+    "city": "Suhl"
+  },
+  {
+    "street": "Jägerhausstraße 8",
+    "zip": 98553,
+    "city": "Schleusingen"
+  },
+  {
+    "street": "Presentstraße 22",
+    "zip": 63939,
+    "city": "Wörth am Main"
+  },
+  {
+    "street": "Frenzelstraße 2",
+    "zip": "07407",
+    "city": "Rudolstadt"
+  },
+  {
+    "street": "Talstraße 77a",
+    "zip": 98544,
+    "city": "Zella-Mehlis"
+  },
+  {
+    "street": "Ratsteichstraße 1",
+    "zip": 98693,
+    "city": "Ilmenau"
+  },
+  {
+    "street": "Leipziger Str. 82b",
+    "zip": 98617,
+    "city": "Meiningen"
+  },
+  {
+    "street": "Mauerstraße 1",
+    "zip": 98527,
+    "city": "Suhl"
+  },
+  {
+    "street": "Bahnhofstraße 38",
+    "zip": 99894,
+    "city": "Friedrichroda"
+  },
+  {
+    "street": "Am Stadtweg 6",
+    "zip": 99817,
+    "city": "Eisenach"
+  },
+  {
+    "street": "Eislebener Str. 4",
+    "zip": 99086,
+    "city": "Erfurt"
+  },
+  {
+    "street": "Schwarzburger Ch 59-61",
+    "zip": "07407",
+    "city": "Rudolstadt"
+  },
+  {
+    "street": "Näherstiller Str. 41",
+    "zip": 98574,
+    "city": "Schmalkalden"
+  },
+  {
+    "street": "Bahnhofstraße 34",
+    "zip": 99885,
+    "city": "Ohrdruf"
+  },
+  {
+    "street": "Ichtershäuser Str. 32 a",
+    "zip": 99310,
+    "city": "Arnstadt"
+  },
+  {
+    "street": "Triniusstraße 27",
+    "zip": 99310,
+    "city": "Arnstadt"
+  },
+  {
+    "street": "Rießnerstraße 20",
+    "zip": 99427,
+    "city": "Weimar"
+  },
+  {
+    "street": "Walpertalstraße 2",
+    "zip": 99438,
+    "city": "Bad Berka"
+  },
+  {
+    "street": "Mainzer Str. 2",
+    "zip": 99610,
+    "city": "Sömmerda"
+  },
+  {
+    "street": "Rhönstraße 25",
+    "zip": 36433,
+    "city": "Bad Salzungen"
+  },
+  {
+    "street": "Camburger Str. 26",
+    "zip": "07743",
+    "city": "Jena"
+  },
+  {
+    "street": "Dotzheimer Str. 152",
+    "zip": 65197,
+    "city": "Wiesbaden"
+  },
+  {
+    "street": "Damaschkestraße 33",
+    "zip": 99867,
+    "city": "Gotha"
+  },
+  {
+    "street": "Scharnhorststraße 66",
+    "zip": 99099,
+    "city": "Erfurt"
+  },
+  {
+    "street": "Buttstädter Str. 3",
+    "zip": 99510,
+    "city": "Apolda"
+  },
+  {
+    "street": "Schöne Allee 14",
+    "zip": 99867,
+    "city": "Gotha"
+  },
+  {
+    "street": "Wetzlarer Str. 6",
+    "zip": 35619,
+    "city": "Braunfels"
+  },
+  {
+    "street": "Friedloser Str. 19",
+    "zip": 36251,
+    "city": "Bad Hersfeld"
+  },
+  {
+    "street": "Erfurter Str. 49a",
+    "zip": 99425,
+    "city": "Weimar"
+  },
+  {
+    "street": "Birkunger Str. 31",
+    "zip": 37327,
+    "city": "Leinefelde-Worbis"
+  },
+  {
+    "street": "Am Kirchenbach 44",
+    "zip": 66740,
+    "city": "Saarlouis"
+  },
+  {
+    "street": "Homberger Str. 140E",
+    "zip": 36251,
+    "city": "Bad Hersfeld"
+  },
+  {
+    "street": "Clemdastraße 5",
+    "zip": 99817,
+    "city": "Eisenach"
+  },
+  {
+    "street": "Torgauer Str. 74",
+    "zip": "04318",
+    "city": "Leipzig"
+  },
+  {
+    "street": "Kyffhäuserstraße 64",
+    "zip": "06567",
+    "city": "Bad Frankenhausen/Kyffhäuser"
+  },
+  {
+    "street": "Hinter d. Harwand 63",
+    "zip": 99974,
+    "city": "Mühlhausen/Thüringen"
+  },
+  {
+    "street": "Roßpl. 1-3",
+    "zip": 99628,
+    "city": "Buttstädt"
+  },
+  {
+    "street": "Jakob-Müller-Straße 2",
+    "zip": 55606,
+    "city": "Kirn"
+  },
+  {
+    "street": "Frankfurter Str. 215-217",
+    "zip": 34134,
+    "city": "Kassel"
+  },
+  {
+    "street": "Ochshäuser Str. 6",
+    "zip": 34123,
+    "city": "Kassel"
+  },
+  {
+    "street": "Ob. Königsstraße 39",
+    "zip": 34117,
+    "city": "Kassel"
+  },
+  {
+    "street": "Ostring 62 A",
+    "zip": 34125,
+    "city": "Kassel"
+  },
+  {
+    "street": "Aue 16",
+    "zip": 36115,
+    "city": "Hilders"
+  },
+  {
+    "street": "Egon-Höhmann-Straße 2",
+    "zip": 34266,
+    "city": "Niestetal"
+  },
+  {
+    "street": "Bunsenstraße 105",
+    "zip": 34127,
+    "city": "Kassel"
+  },
+  {
+    "street": "Lange Heideteile 11",
+    "zip": 34295,
+    "city": "Edermünde"
+  },
+  {
+    "street": "Bahnhofstraße 37",
+    "zip": 36110,
+    "city": "Schlitz"
+  },
+  {
+    "street": "Max-Näder-Straße 6",
+    "zip": 37115,
+    "city": "Duderstadt"
+  },
+  {
+    "street": "Wolfhager Str. 201",
+    "zip": 34127,
+    "city": "Kassel"
+  },
+  {
+    "street": "Hafenstraße 5",
+    "zip": 34125,
+    "city": "Kassel"
+  },
+  {
+    "street": "Ihringshäuser Str. 151",
+    "zip": 34125,
+    "city": "Kassel"
+  },
+  {
+    "street": "Am Lohwasser 6-8",
+    "zip": 37235,
+    "city": "Hessisch Lichtenau"
+  },
+  {
+    "street": "Wenschtstraße 1",
+    "zip": 57078,
+    "city": "Siegen"
+  },
+  {
+    "street": "Reichsstraße 16",
+    "zip": 99734,
+    "city": "Nordhausen"
+  },
+  {
+    "street": "Eugen-Richter-Straße 28",
+    "zip": 99085,
+    "city": "Erfurt"
+  },
+  {
+    "street": "Industriestraße 4a",
+    "zip": 37079,
+    "city": "Göttingen"
+  },
+  {
+    "street": "Am Rittertor 1",
+    "zip": 99718,
+    "city": "Greußen"
+  },
+  {
+    "street": "Niedertor 1",
+    "zip": 36205,
+    "city": "Sontra"
+  },
+  {
+    "street": "Hersfelder Str. 11",
+    "zip": 36179,
+    "city": "Bebra"
+  },
+  {
+    "street": "Grenzweg 10",
+    "zip": 99091,
+    "city": "Erfurt"
+  },
+  {
+    "street": "Seesener Str. 25b",
+    "zip": 37520,
+    "city": "Osterode am Harz"
+  },
+  {
+    "street": "Annastraße 36",
+    "zip": 37075,
+    "city": "Göttingen"
+  },
+  {
+    "street": "Kohlenstraße 75",
+    "zip": 34121,
+    "city": "Kassel"
+  },
+  {
+    "street": "Weinbergstraße 2",
+    "zip": "06526",
+    "city": "Sangerhausen"
+  },
+  {
+    "street": "Bahnhofstraße 19",
+    "zip": 37269,
+    "city": "Eschwege"
+  },
+  {
+    "street": "Im Aartal 18 a",
+    "zip": 65326,
+    "city": "Aarbergen"
+  },
+  {
+    "street": "Laubenweg 5",
+    "zip": 37213,
+    "city": "Witzenhausen"
+  },
+  {
+    "street": "Harleshäuser Str. 21",
+    "zip": 34246,
+    "city": "Vellmar"
+  },
+  {
+    "street": "Gießener Str. 71-73",
+    "zip": 34560,
+    "city": "Fritzlar"
+  },
+  {
+    "street": "Brückenhofstraße 77",
+    "zip": 34132,
+    "city": "Kassel"
+  },
+  {
+    "street": "Hilgershäuser Weg 5",
+    "zip": 34212,
+    "city": "Melsungen"
+  },
+  {
+    "street": "Hersfelder Str. 20",
+    "zip": 36272,
+    "city": "Niederaula"
+  },
+  {
+    "street": "Bennekuhlenweg 1",
+    "zip": 37412,
+    "city": "Herzberg am Harz"
+  },
+  {
+    "street": "Oststraße 1",
+    "zip": 37308,
+    "city": "Heilbad Heiligenstadt"
+  },
+  {
+    "street": "Stockenbreite 1",
+    "zip": 37434,
+    "city": "Gieboldehausen"
+  },
+  {
+    "street": "Am bhf 3-5",
+    "zip": 34582,
+    "city": "Borken"
+  },
+  {
+    "street": "Wiesenstraße 29",
+    "zip": 37170,
+    "city": "Uslar"
+  },
+  {
+    "street": "Hedemündener Str. 19",
+    "zip": 34346,
+    "city": "Hann. Münden"
+  },
+  {
+    "street": "Friedenstraße 7",
+    "zip": "06571",
+    "city": "Roßleben-Wiehe"
+  },
+  {
+    "street": "Hallesche Str. 49",
+    "zip": 99734,
+    "city": "Nordhausen"
+  },
+  {
+    "street": "Bahnhofstraße 9-11",
+    "zip": 37431,
+    "city": "Bad Lauterberg im Harz"
+  },
+  {
+    "street": "Grimsehlstraße 22-24",
+    "zip": 37574,
+    "city": "Einbeck"
+  },
+  {
+    "street": "Wehrscheid 22",
+    "zip": 57392,
+    "city": "Schmallenberg"
+  },
+  {
+    "street": "Kachstedter Str. 4",
+    "zip": "06556",
+    "city": "Artern/Unstrut"
+  },
+  {
+    "street": "Jahnstraße 10-12",
+    "zip": 34286,
+    "city": "Spangenberg"
+  },
+  {
+    "street": "Rischenweg 6",
+    "zip": 37124,
+    "city": "Rosdorf"
+  },
+  {
+    "street": "Hersfelder Str. 26",
+    "zip": 34576,
+    "city": "Homberg (Efze)"
+  },
+  {
+    "street": "Eleonorastraße 2",
+    "zip": 45136,
+    "city": "Essen"
+  },
+  {
+    "street": "Felsenkellerweg 21",
+    "zip": "06493",
+    "city": "Ballenstedt"
+  },
+  {
+    "street": "Erfurter Str. 33a",
+    "zip": 99706,
+    "city": "Sondershausen"
+  },
+  {
+    "street": "Harzburger Str. 28-30",
+    "zip": 38871,
+    "city": "Ilsenburg (Harz)"
+  },
+  {
+    "street": "Industriestraße 6",
+    "zip": 34369,
+    "city": "Hofgeismar"
+  },
+  {
+    "street": "Werrastraße 1-3",
+    "zip": 37242,
+    "city": "Bad Sooden-Allendorf"
+  },
+  {
+    "street": "Heerweg 55",
+    "zip": 99752,
+    "city": "Bleicherode"
+  },
+  {
+    "street": "Roonstraße 14",
+    "zip": 44629,
+    "city": "Herne"
+  },
+  {
+    "street": "Musestieg 5",
+    "zip": "06502",
+    "city": "Thale"
+  },
+  {
+    "street": "Wolfshof 6",
+    "zip": 37127,
+    "city": "Dransfeld"
+  },
+  {
+    "street": "Okerstraße 21",
+    "zip": 38640,
+    "city": "Goslar"
+  },
+  {
+    "street": "Knesebeckstraße 47/48",
+    "zip": 10719,
+    "city": "Berlin"
+  },
+  {
+    "street": "Nordhäuser Weg 11",
+    "zip": 37154,
+    "city": "Northeim"
+  },
+  {
+    "street": "Westerhäuser Str. 35",
+    "zip": 38889,
+    "city": "Blankenburg (Harz)"
+  },
+  {
+    "street": "Netteberger Straße, Ferdinand-Spahn-Weg 1",
+    "zip": 59379,
+    "city": "Selm"
+  },
+  {
+    "street": "Nevigeser Str. 170",
+    "zip": 42113,
+    "city": "Wuppertal"
+  },
+  {
+    "street": "Benzingeröder Ch 6",
+    "zip": 38855,
+    "city": "Wernigerode"
+  },
+  {
+    "street": "Webergasse 13",
+    "zip": 56355,
+    "city": "Nastätten"
+  },
+  {
+    "street": "Göttinger Str. 34",
+    "zip": 37176,
+    "city": "Nörten-Hardenberg"
+  },
+  {
+    "street": "Buscherstraße 3/5",
+    "zip": "5a",
+    "city": "40239 Düsseldorf"
+  },
+  {
+    "street": "Bauhofstraße 21-25",
+    "zip": 38678,
+    "city": "Clausthal-Zellerfeld"
+  },
+  {
+    "street": "Kölner Landstraße 265",
+    "zip": 52351,
+    "city": "Düren"
+  },
+  {
+    "street": "Sölder Str. 143",
+    "zip": 44289,
+    "city": "Dortmund"
+  },
+  {
+    "street": "Hönower Str. 99",
+    "zip": 12623,
+    "city": "Berlin"
+  },
+  {
+    "street": "Segeberger Str. 20",
+    "zip": 23866,
+    "city": "Nahe"
+  },
+  {
+    "street": "Satower Str. 7",
+    "zip": 18059,
+    "city": "Rostock"
+  },
+  {
+    "street": "Halener Str. 23",
+    "zip": 49685,
+    "city": "Emstek"
+  },
+  {
+    "street": "Hinrichsdorfer Str. 13A",
+    "zip": 18146,
+    "city": "Rostock"
+  },
+  {
+    "street": "Merkurstraße 24",
+    "zip": 24943,
+    "city": "Flensburg"
+  },
+  {
+    "street": "Dieselstraße 9",
+    "zip": 25813,
+    "city": "Husum"
+  }
+]
