@@ -1,0 +1,130 @@
+{
+    "addresses": [
+        {
+            "fullAddress": "Rudolf-Diesel-Str. 7, 16356 Ahrensfelde"
+        },
+        {
+            "fullAddress": "Neue Glattbacher Str. 2, 63741 Aschaffenburg"
+        },
+        {
+            "fullAddress": "Rhinstraße 141, 10315 Berlin"
+        },
+        {
+            "fullAddress": "Bochumer Straße 119, 44866 Bochum"
+        },
+        {
+            "fullAddress": "Daimler-Straße 1, 38112 Braunschweig"
+        },
+        {
+            "fullAddress": "Arsterdamm 102-106, 28277 Bremen"
+        },
+        {
+            "fullAddress": "Heinrich-Lorenz-Straße 12, 09120 Chemnitz"
+        },
+        {
+            "fullAddress": "Bärenbrücker Straße 2, 03042 Cottbus"
+        },
+        {
+            "fullAddress": "Dohnaer Straße 190, 01239 Dresden"
+        },
+        {
+            "fullAddress": "Schauenstraße 32, 47228 Duisburg"
+        },
+        {
+            "fullAddress": "An der Flurscheide 1, 99098 Erfurt"
+        },
+        {
+            "fullAddress": "Praunheimer Str. 5-11, 65760 Eschborn"
+        },
+        {
+            "fullAddress": "Straße der Einheit 122-128, 14612 Falkensee"
+        },
+        {
+            "fullAddress": "Plieninger Straße 63/1, 70794 Filderstadt"
+        },
+        {
+            "fullAddress": "Europaallee 35, 50226 Frechen"
+        },
+        {
+            "fullAddress": "Hans-Vogel-Straße 113, 90765 Fürth"
+        },
+        {
+            "fullAddress": "An der Beerweinschaenke 1, 07554 Gera"
+        },
+        {
+            "fullAddress": "Andreas-Schmid-Straße 2, 86368 Gersthofen"
+        },
+        {
+            "fullAddress": "Zusestraße 2, 64347 Griesheim"
+        },
+        {
+            "fullAddress": "Becketalstraße 3-5, 51643 Gummersbach"
+        },
+        {
+            "fullAddress": "Glinderstraße 1, 22117 Hamburg"
+        },
+        {
+            "fullAddress": "Tasköprüstrasse 10, 22761 Hamburg"
+        },
+        {
+            "fullAddress": "Austraße 95, 74076 Heilbronn"
+        },
+        {
+            "fullAddress": "Oststraße 17, 40724 Hilden"
+        },
+        {
+            "fullAddress": "Otto-Hahn-Straße 2-4, 85055 Ingolstadt"
+        },
+        {
+            "fullAddress": "Von-Hünefeld-Straße 100, 50829 Köln"
+        },
+        {
+            "fullAddress": "Maximilianallee 5, 04129 Leipzig"
+        },
+        {
+            "fullAddress": "Gustav-Ricker-Straße 1, 39120 Magdeburg"
+        },
+        {
+            "fullAddress": "Fahrlachstraße 11-25, 68165 Mannheim"
+        },
+        {
+            "fullAddress": "Martin-Behaim-Straße 3, 63263 Neu-Isenburg"
+        },
+        {
+            "fullAddress": "An der Rosenhelle 2, 61138 Niederdorfelden"
+        },
+        {
+            "fullAddress": "Gutenbergring 2-12, 22848 Norderstedt"
+        },
+        {
+            "fullAddress": "Pfälzer Allee 2, 01471 Radeburg"
+        },
+        {
+            "fullAddress": "Udenhoutstraße, 63110 Rodgau"
+        },
+        {
+            "fullAddress": "Hanseatenstr. 2 (GVZ), 18146 Rostock"
+        },
+        {
+            "fullAddress": "Papierfabrik 5, 57072 Siegen"
+        },
+        {
+            "fullAddress": "Ruhlsdorfer Straße 76, 14532 Stahnsdorf"
+        },
+        {
+            "fullAddress": "Heilbronner Straße 385, 70469 Stuttgart"
+        },
+        {
+            "fullAddress": "Am Gewerbepark Ii 15, 06179 Teutschenthal"
+        },
+        {
+            "fullAddress": "Schwarzer Weg, 26215 Wiefelstede"
+        },
+        {
+            "fullAddress": "Nürnberger Straße 105, 97076 Würzburg"
+        },
+        {
+            "fullAddress": "Saarstraße 16A, 08056 Zwickau"
+        }
+    ]
+}

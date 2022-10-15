@@ -1,0 +1,943 @@
+{
+    "addresses": [
+        {
+            "fullAddress": "Am Tannenwäldle 2, 73431 Aalen"
+        },
+        {
+            "fullAddress": "An der Au 10, 36304 Alsfeld"
+        },
+        {
+            "fullAddress": "Kleinbahnweg 3, 63589 Altenhasslau"
+        },
+        {
+            "fullAddress": "Die Weidenbach 5 - 13, 63674 Altenstadt-Lindheim"
+        },
+        {
+            "fullAddress": "Lindenstr. 15, 35287 Amöneburg-Roßdorf"
+        },
+        {
+            "fullAddress": "Rettistr. 3, 91522 Ansbach"
+        },
+        {
+            "fullAddress": "Ludwigstr. 2-4, 63739 Aschaffenburg"
+        },
+        {
+            "fullAddress": "Schillerstr. 109, 63741 Aschaffenburg"
+        },
+        {
+            "fullAddress": "Gänsrain 1, 97769 Bad Brückenau"
+        },
+        {
+            "fullAddress": "Benno-Schilde-Str. 8, 36251 Bad Hersfeld"
+        },
+        {
+            "fullAddress": "H.-v.-Stephan-Str. 4, 36251 Bad Hersfeld"
+        },
+        {
+            "fullAddress": "Riedgraben 4 - 6, 97688 Bad Kissingen-Garitz"
+        },
+        {
+            "fullAddress": "Hindenburgstr. 26, 97631 Bad Königshofen"
+        },
+        {
+            "fullAddress": "Bahnhofstr. 3, 36448 Bad Liebenstein"
+        },
+        {
+            "fullAddress": "Stresemannstr. 3, 61231 Bad Nauheim"
+        },
+        {
+            "fullAddress": "Schwalheimer Str. 79, 61231 Bad Nauheim"
+        },
+        {
+            "fullAddress": "Thomas-Mann-Str. 1, 97616 Bad Neust.-Brendlorenzen"
+        },
+        {
+            "fullAddress": "Saalestr. 2, 97616 Bad Neustadt"
+        },
+        {
+            "fullAddress": "Fuldaer Str. 52, 36364 Bad Salzschlirf"
+        },
+        {
+            "fullAddress": "Untere Beete 3, 36433 Bad Salzungen"
+        },
+        {
+            "fullAddress": "Bahnhofstr. 11, 36433 Bad Salzungen"
+        },
+        {
+            "fullAddress": "Königsteiner Str. 31-33, 65812 Bad Soden am Taunus"
+        },
+        {
+            "fullAddress": "Werrastr. 6, 37242 Bad Sooden-Allendorf"
+        },
+        {
+            "fullAddress": "Friedberger Str. 93, 61118 Bad Vilbel"
+        },
+        {
+            "fullAddress": "Zum Kurpark 2, 34596 Bad Zwesten"
+        },
+        {
+            "fullAddress": "Ludwigstr. 25, 96052 Bamberg"
+        },
+        {
+            "fullAddress": "Altenbaunaer Str. 14 - 18, 34225 Baunatal-Altenritte"
+        },
+        {
+            "fullAddress": "Lindenallee 1 - 3, 36179 Bebra"
+        },
+        {
+            "fullAddress": "Heidelberger Str. 100, 64625 Bensheim"
+        },
+        {
+            "fullAddress": "Am Pflaster 19, 63599 Biebergemünd"
+        },
+        {
+            "fullAddress": "Straße der Einheit 105, 99752 Bleicherode"
+        },
+        {
+            "fullAddress": "Lange Ruthe 3, 55294 Bodenheim"
+        },
+        {
+            "fullAddress": "Fabrikstr. 5, 63636 Brachttal-Schlierbach"
+        },
+        {
+            "fullAddress": "Wetzlarer Straße 18 A, 35619 Braunfels"
+        },
+        {
+            "fullAddress": "Keltenstr. 18 - 20, 63486 Bruchköbel"
+        },
+        {
+            "fullAddress": "Heinrich-Böll-Str. 42, 63486 Bruchköbel-Niederissigheim"
+        },
+        {
+            "fullAddress": "Marktplatz 3, 36151 Burghaun"
+        },
+        {
+            "fullAddress": "Birkenweg 14, 97775 Burgsinn"
+        },
+        {
+            "fullAddress": "Neustadter Str. 9b, 96450 Coburg"
+        },
+        {
+            "fullAddress": "Karchestr. 12, 96450 Coburg"
+        },
+        {
+            "fullAddress": "Bahnhofstr. 35, 99831 Creuzburg"
+        },
+        {
+            "fullAddress": "Schornstr. 2, 99831 Creuzburg / OT Mihla"
+        },
+        {
+            "fullAddress": "Ludwigstr. 2 - 4, 64283 Darmstadt"
+        },
+        {
+            "fullAddress": "Kasinostr. 92, 64293 Darmstadt"
+        },
+        {
+            "fullAddress": "Frankfurter Straße 127, 64293 Darmstadt"
+        },
+        {
+            "fullAddress": "Strahringerplatz 1, 64289 Darmstadt"
+        },
+        {
+            "fullAddress": "Babenhäuser Str. 29, 63128 Dietzenbach"
+        },
+        {
+            "fullAddress": "Masayapl. 3, 63128 Dietzenbach"
+        },
+        {
+            "fullAddress": "Am Sportzentrum 3, 35683 Dillenburg, Oranien-Center"
+        },
+        {
+            "fullAddress": "Gewerbepark 5, 36160 Dipperz"
+        },
+        {
+            "fullAddress": "Am Sportplatz 22, 99869 Drei Gleichen-Wandersl."
+        },
+        {
+            "fullAddress": "Frankfurter Str. 70-72, 63303 Dreieich-Sprendlingen"
+        },
+        {
+            "fullAddress": "Am Kornhaus 2, 34549 Edertal-Giflitz"
+        },
+        {
+            "fullAddress": "Am Schwimmbad 5, 36115 Ehrenberg-Wüstensachsen"
+        },
+        {
+            "fullAddress": "Würzburger Str. 45, 97246 Eibelstadt"
+        },
+        {
+            "fullAddress": "Rhönhof 28, 36124 Eichenzell"
+        },
+        {
+            "fullAddress": "Nordplatz 20, 99817 Eisenach"
+        },
+        {
+            "fullAddress": "Barfüsserstraße 1, 99817 Eisenach"
+        },
+        {
+            "fullAddress": "Bahnhofstr. 21, 73479 Ellwangen"
+        },
+        {
+            "fullAddress": "Valterweg 1, 65817 Eppstein"
+        },
+        {
+            "fullAddress": "Werner-von-Siemens-Str. 35, 64711 Erbach"
+        },
+        {
+            "fullAddress": "Anger 74, 99084 Erfurt"
+        },
+        {
+            "fullAddress": "Marktstr. 28 - 31, 99084 Erfurt"
+        },
+        {
+            "fullAddress": "Gorkistr. 11a, 99084 Erfurt"
+        },
+        {
+            "fullAddress": "Eichendorffstr. 27, 99096 Erfurt"
+        },
+        {
+            "fullAddress": "Häßler Str. 6 - 8 a, 99096 Erfurt"
+        },
+        {
+            "fullAddress": "Nürnberger Str. 7, 91052 Erlangen"
+        },
+        {
+            "fullAddress": "Lange Zeile 61, 91054 Erlangen"
+        },
+        {
+            "fullAddress": "Wladimirstr. 1-3, 91058 Erlangen"
+        },
+        {
+            "fullAddress": "Bahnhofstr. 25 - 27, 37269 Eschwege"
+        },
+        {
+            "fullAddress": "Im Borngarten 2, 36325 Feldatal-Kestrich"
+        },
+        {
+            "fullAddress": "Gotthilf-Bayh-Str. 1-3, 70736 Fellbach-Schmiden"
+        },
+        {
+            "fullAddress": "Schlüchterner Str. 3 a, 36103 Flieden"
+        },
+        {
+            "fullAddress": "Hofwiese 6, 96524 Föritztal OT Neuhaus-Schierschnitz"
+        },
+        {
+            "fullAddress": "Bahnhofsallee 6, 96528 Frankenblick OT Mengersgereuth-Hämm"
+        },
+        {
+            "fullAddress": "Friedberger Landstr. 408, 60389 Frankfurt"
+        },
+        {
+            "fullAddress": "Voltastr. 70 - 72, 60486 Frankfurt"
+        },
+        {
+            "fullAddress": "Mailänder Str. 8, 60598 Frankfurt"
+        },
+        {
+            "fullAddress": "Neue Mainzer Str. 6-10, 60311 Frankfurt"
+        },
+        {
+            "fullAddress": "Kurt-Schumacher-Str. 30-32, 60313 Frankfurt"
+        },
+        {
+            "fullAddress": "Kaiserstr. 62-64, 60329 Frankfurt am Main"
+        },
+        {
+            "fullAddress": "Terminal 1, Ebene U1, Bereich, 60547 Frankfurt, Flughafen"
+        },
+        {
+            "fullAddress": "Leonardo-da-Vinci-Allee 4-8, 60486 Frankfurt, Rebstockhöfe"
+        },
+        {
+            "fullAddress": "Bleichstr. 57, 60313 Frankfurt-Am Eschenheimer Turm"
+        },
+        {
+            "fullAddress": "Triebstr. 51, 60388 Frankfurt-Bergen Enkheim"
+        },
+        {
+            "fullAddress": "Pfortenstr. 3, 60386 Frankfurt-Fechenheim"
+        },
+        {
+            "fullAddress": "Gravensteiner Platz 4-6, 60435 Frankfurt-Preungesheim"
+        },
+        {
+            "fullAddress": "Radilostr. 17 - 19, 60489 Frankfurt-Rödelheim"
+        },
+        {
+            "fullAddress": "Walter-Kolb-Str. 13, 60594 Frankfurt-Sachsenhausen"
+        },
+        {
+            "fullAddress": "Im Mühlfeld 23, 36399 Freiensteinau"
+        },
+        {
+            "fullAddress": "Raiffeisenstr. 11, 63579 Freigericht-Somborn"
+        },
+        {
+            "fullAddress": "Anna-Kloos-Str. 1, 61169 Friedberg"
+        },
+        {
+            "fullAddress": "Fauerbacher Str. 9, 61169 Friedberg"
+        },
+        {
+            "fullAddress": "Am Hospital 3, 34560 Fritzlar"
+        },
+        {
+            "fullAddress": "Rabanusstr. 3, 36037 Fulda"
+        },
+        {
+            "fullAddress": "Maberzeller Str. 45, 36041 Fulda"
+        },
+        {
+            "fullAddress": "Lindenstraße 32, 36037 Fulda"
+        },
+        {
+            "fullAddress": "Gerloser Weg 72, 36039 Fulda"
+        },
+        {
+            "fullAddress": "Bahnhofstr. 25, 36037 Fulda"
+        },
+        {
+            "fullAddress": "Bronnzeller Straße 4, 36043 Fulda"
+        },
+        {
+            "fullAddress": "Petersberger Straße 76, 36037 Fulda"
+        },
+        {
+            "fullAddress": "Magdeburger Straße 24, 36037 Fulda"
+        },
+        {
+            "fullAddress": "Abt-Hadamar-Straße 5, 36041 Fulda"
+        },
+        {
+            "fullAddress": "Pacelliallee 4, 36043 Fulda"
+        },
+        {
+            "fullAddress": "Am Emaillierwerk 1, 36043 Fulda, Emaillierwerk"
+        },
+        {
+            "fullAddress": "Merkurstr. 16 - 20, 36041 Fulda-Haimbach"
+        },
+        {
+            "fullAddress": "Schlitzer Str. 79 - 81, 36039 Fulda-Horas"
+        },
+        {
+            "fullAddress": "Keltenstr. 20, 36043 Fulda-Kaiserwiesen"
+        },
+        {
+            "fullAddress": "Gustav-Schickedanz-Str. 2, 90762 Fürth"
+        },
+        {
+            "fullAddress": "Herrnstr. 26, 90763 Fürth"
+        },
+        {
+            "fullAddress": "Gartenweg 3, 36419 Geisa"
+        },
+        {
+            "fullAddress": "Am Ziegelturm 2 (4), 63571 Gelnhausen"
+        },
+        {
+            "fullAddress": "Leipziger Str. 74, 63571 Gelnhausen-Roth"
+        },
+        {
+            "fullAddress": "Würzburger Str. 75, 97737 Gemünden"
+        },
+        {
+            "fullAddress": "Am Weinberg 5 - 7, 35285 Gemünden"
+        },
+        {
+            "fullAddress": "Am Kirschberg 5, 97218 Gerbrunn"
+        },
+        {
+            "fullAddress": "Schallfelder Str. 38, 97447 Gerolzhofen"
+        },
+        {
+            "fullAddress": "Neustadt 28, 35390 Gießen"
+        },
+        {
+            "fullAddress": "Adolph-Kolping-Str. 9, 35392 Gießen-Schlangenzahl"
+        },
+        {
+            "fullAddress": "Adam-Opel-Str. 4 - 6, 65462 Ginsheim-Gustavsburg"
+        },
+        {
+            "fullAddress": "Leinastr. 78, 99867 Gotha"
+        },
+        {
+            "fullAddress": "Weimarer Str. 120 b, 99867 Gotha-Siebleben"
+        },
+        {
+            "fullAddress": "Am Kaufpark 1, 37081 Göttingen"
+        },
+        {
+            "fullAddress": "Weender Str. 75, 37073 Göttingen-Carré"
+        },
+        {
+            "fullAddress": "An der Lutter 22, 37075 Göttingen-Weende"
+        },
+        {
+            "fullAddress": "Alfred-Delp-Weg 7, 37085 Göttingen-Zietenterrassen"
+        },
+        {
+            "fullAddress": "Meininger Str. 1a, 98631 Grabfeld-Jüchsen"
+        },
+        {
+            "fullAddress": "Feldstr. 13, 64347 Griesheim"
+        },
+        {
+            "fullAddress": "Waldstr. 71 b, 64846 Groß-Zimmern"
+        },
+        {
+            "fullAddress": "Rudelzauer Str. 14, 63762 Großostheim-Pflaumheim"
+        },
+        {
+            "fullAddress": "Mittelweg 4a, 63762 Großostheim-Ringheim"
+        },
+        {
+            "fullAddress": "Michelinstr. 142, 96103 Hallstadt"
+        },
+        {
+            "fullAddress": "Im Büttnerstrich 4, 97456 Hambach-Dittelbrunn"
+        },
+        {
+            "fullAddress": "Heldenbergener Str. 4, 63452 Hanau"
+        },
+        {
+            "fullAddress": "Am Hauptbahnhof, 63450 Hanau"
+        },
+        {
+            "fullAddress": "Hauptstr. 110, 69117 Heidelberg"
+        },
+        {
+            "fullAddress": "Rheinstr. 29, 69126 Heidelberg"
+        },
+        {
+            "fullAddress": "Brüsseler Str. 1, 37308 Heilbad Heiligenstadt"
+        },
+        {
+            "fullAddress": "Rödelsweg 255 a, 98663 Heldburg"
+        },
+        {
+            "fullAddress": "Anger 55, 99955 Herbsleben"
+        },
+        {
+            "fullAddress": "Hainhäuser Straße 5, 63150 Heusenstamm"
+        },
+        {
+            "fullAddress": "Bamberger Str. 18, 96114 Hirschaid"
+        },
+        {
+            "fullAddress": "Waldstr. 4, 97204 Höchberg"
+        },
+        {
+            "fullAddress": "Langenbieberer Str. 6, 36145 Hofbieber"
+        },
+        {
+            "fullAddress": "Industriestr. 17, 34369 Hofgeismar"
+        },
+        {
+            "fullAddress": "Veitsberg Am Hohn 8, 97618 Hohenroth"
+        },
+        {
+            "fullAddress": "Am Niedertor 2 - 8, 36088 Hünfeld"
+        },
+        {
+            "fullAddress": "Josefstr. 3, 36088 Hünfeld"
+        },
+        {
+            "fullAddress": "Königskuppel 15, 36088 Hünfeld-Michelsrombach"
+        },
+        {
+            "fullAddress": "Neukirchner Str. 14, 65510 Hünstetten-Kesselbach"
+        },
+        {
+            "fullAddress": "Wachsenburgstr. 99, 99334 Ichtershausen"
+        },
+        {
+            "fullAddress": "Margarethenstr. 9, 98693 Ilmenau OT Langewiesen"
+        },
+        {
+            "fullAddress": "Carl-Zeiss-Str. 4, 07743 Jena, Goethegalerie"
+        },
+        {
+            "fullAddress": "Mühlbergstraße, 63867 Johannesberg"
+        },
+        {
+            "fullAddress": "Ölwiesenweg 5, 07768 Kahla"
+        },
+        {
+            "fullAddress": "Gartenstr. 2, 36452 Kaltennordheim"
+        },
+        {
+            "fullAddress": "Bahnhofstr. 190 - 196, 61184 Karben"
+        },
+        {
+            "fullAddress": "Bodelschwinghstr. 1, 97753 Karlstadt"
+        },
+        {
+            "fullAddress": "Frankfurter Str. 86, 34121 Kassel"
+        },
+        {
+            "fullAddress": "Wilhelmshöher Allee 89, 34121 Kassel"
+        },
+        {
+            "fullAddress": "Wilhelmshöher Allee 253, 34131 Kassel"
+        },
+        {
+            "fullAddress": "Friedrich-Ebert-Str. 29, 34117 Kassel"
+        },
+        {
+            "fullAddress": "Wilhelmshöher Allee 262, 34131 Kassel-Atrium"
+        },
+        {
+            "fullAddress": "Leipziger Str. 128, 34123 Kassel-Bettenhausen"
+        },
+        {
+            "fullAddress": "Königsplatz 61, 34117 Kassel-City Point"
+        },
+        {
+            "fullAddress": "Zum Hirtenkamp 1, 34128 Kassel-Harleshausen"
+        },
+        {
+            "fullAddress": "Elisabeth-Selbert-Str. 40, 34253 Kassel-Lohfelden"
+        },
+        {
+            "fullAddress": "Ludwig-Erhard-Str. 11, 34131 Kassel-Marbachshöhe"
+        },
+        {
+            "fullAddress": "Wolfhager Str. 278, 34128 Kassel-Rothenditmold"
+        },
+        {
+            "fullAddress": "Schwarzburger Str. 14, 98746 Katzhütte"
+        },
+        {
+            "fullAddress": "Mörfelder Str. 22, 65451 Kelsterbach"
+        },
+        {
+            "fullAddress": "Mühlgasse 11, 35274 Kirchhain"
+        },
+        {
+            "fullAddress": "Grüner Weg 6, 36320 Kirtorf"
+        },
+        {
+            "fullAddress": "Briloner Landstr. 4 - 6, 34497 Korbach"
+        },
+        {
+            "fullAddress": "Frankfurter Str. 50 - 52, 61476 Kronberg im Taunus"
+        },
+        {
+            "fullAddress": "Vorderweg 1, 37290 Abterode"
+        },
+        {
+            "fullAddress": "Friedberger Gäßchen 5, 63755 Alzenau"
+        },
+        {
+            "fullAddress": "Marktstr. 25, 99947 Bad Langensalza"
+        },
+        {
+            "fullAddress": "Am Wasser 4, 37297 Berkatal/Frankershausen"
+        },
+        {
+            "fullAddress": "Hundsburgstr. 11, 34582 Borken-Kleinenglis"
+        },
+        {
+            "fullAddress": "Am Bürgerhaus 6, 35091 Cölbe-Schönstadt"
+        },
+        {
+            "fullAddress": "Bahnhofstr. 9, 99100 Dachwig"
+        },
+        {
+            "fullAddress": "Bergener Str. 18, 99092 Erfurt/Marbach"
+        },
+        {
+            "fullAddress": "Wendische Mark 9 - 13, 37269 Eschwege"
+        },
+        {
+            "fullAddress": "Mündener Str. 17, 37218 Gertenbach"
+        },
+        {
+            "fullAddress": "Raiffeisenstr. 2, 35114 Haina-Löhlbach"
+        },
+        {
+            "fullAddress": "Mainblick 65, 61476 Kronberg-Schönberg (Taunus)"
+        },
+        {
+            "fullAddress": "Ullstädter Str. 8, 91474 Langenfeld"
+        },
+        {
+            "fullAddress": "Rathausstr. 33, 97274 Leinach"
+        },
+        {
+            "fullAddress": "Rudolf-Bultmann-Str. 8, 35039 Marburg"
+        },
+        {
+            "fullAddress": "Jakob-Kaiser-Str. 7, 35037 Marburg, Stadtwald"
+        },
+        {
+            "fullAddress": "Stümpelstal 1a, 35041 Marburg-Michelbach"
+        },
+        {
+            "fullAddress": "Friedhofsweg 2, 61184 Okarben"
+        },
+        {
+            "fullAddress": "Mühlstr. 23, 63679 Rainrod"
+        },
+        {
+            "fullAddress": "Blumenstr. 41, 07389 Ranis"
+        },
+        {
+            "fullAddress": "Ludwig-Grobe-Str. 3, 97453 Schonungen"
+        },
+        {
+            "fullAddress": "Schelmsrasen 4 - 6, 97421 Schweinfurt"
+        },
+        {
+            "fullAddress": "Welzgasse 1, 36358 Stockhausen"
+        },
+        {
+            "fullAddress": "Höhenstr. 2, 35410 Villingen/Hungen"
+        },
+        {
+            "fullAddress": "In der Klappe 2, 34399 Wesertal-Gieselwerder"
+        },
+        {
+            "fullAddress": "Gadheimer Str. 1a, 97080 Würzburg-Oberdürrbach"
+        },
+        {
+            "fullAddress": "Rheinstr. 31, 63225 Langen"
+        },
+        {
+            "fullAddress": "Ringstr. 58, 63505 Langenselbold"
+        },
+        {
+            "fullAddress": "Hauptstr. 34, 63846 Laufach"
+        },
+        {
+            "fullAddress": "An der Leimenkaute 3, 36341 Lauterbach"
+        },
+        {
+            "fullAddress": "Joseph-Schneider-Str. 1, 65549 Limburg"
+        },
+        {
+            "fullAddress": "Langenzeller Str. 1, 74931 Lobbach"
+        },
+        {
+            "fullAddress": "Ludwigstr. 9, 97816 Lohr"
+        },
+        {
+            "fullAddress": "Marie-Curie-Str. 2, 64653 Lorsch"
+        },
+        {
+            "fullAddress": "Industriestr. 6, 36251 Ludwigsau-Friedlos"
+        },
+        {
+            "fullAddress": "Marstallstr. 1, 71634 Ludwigsburg"
+        },
+        {
+            "fullAddress": "Hünfelder Str. 2, 36088 Mackenzell"
+        },
+        {
+            "fullAddress": "Erwin-Grimm-Ring 1, 63533 Mainhausen-Mainflingen"
+        },
+        {
+            "fullAddress": "Braubachstr. 18, 63477 Maintal-Dörnigheim"
+        },
+        {
+            "fullAddress": "Holzhofstr. 9, 55116 Mainz"
+        },
+        {
+            "fullAddress": "Annemarie-Renger-Str. 1o, 55131 Mainz"
+        },
+        {
+            "fullAddress": "Bahnhofstr. 8a, 55116 Mainz"
+        },
+        {
+            "fullAddress": "Katzenberg 13, 55126 Mainz-Finthen"
+        },
+        {
+            "fullAddress": "Hauptstrasse 122, 69254 Malsch"
+        },
+        {
+            "fullAddress": "Universitätsstr. 8, 35037 Marburg"
+        },
+        {
+            "fullAddress": "Marburger Str. 100, 35043 Marburg-Cappel"
+        },
+        {
+            "fullAddress": "Ketzerbach 25 - 28, 35037 Marburg-Ketzerbach"
+        },
+        {
+            "fullAddress": "Am Kaufmarkt 1, 35041 Marburg-Wehrda"
+        },
+        {
+            "fullAddress": "Erlabrunnerstr. 36, 97276 Margetshöchheim"
+        },
+        {
+            "fullAddress": "Luitpoldstr. 17, 97828 Marktheidenfeld"
+        },
+        {
+            "fullAddress": "Landsberger Str. 2 - 6, 98617 Meiningen"
+        },
+        {
+            "fullAddress": "Utendorfer Str. 31, 98617 Meiningen"
+        },
+        {
+            "fullAddress": "Berkerserstr. 31, 98617 Meiningen-Dreissigacker"
+        },
+        {
+            "fullAddress": "Kasseler Str. 52, 34212 Melsungen"
+        },
+        {
+            "fullAddress": "Gerauer Str. 54 a, 64546 Mörfelden-Walldorf"
+        },
+        {
+            "fullAddress": "Langensalzaer Landstr. 25, 99974 Mühlhausen"
+        },
+        {
+            "fullAddress": "Schillerstr. 77 - 79, 63165 Mühlheim am Main"
+        },
+        {
+            "fullAddress": "Ulmenstraße 13h, 63165 Mühlheim am Main"
+        },
+        {
+            "fullAddress": "Thomas-Dehler-Straße 15, 81737 München"
+        },
+        {
+            "fullAddress": "Luitpoldstr. 3, 80335 München Elisenhof"
+        },
+        {
+            "fullAddress": "Hanauer Str. 1, 36119 Neuhof"
+        },
+        {
+            "fullAddress": "An der Rosenhelle 6, 61138 Niederdorfelden"
+        },
+        {
+            "fullAddress": "Feldbergstr. 1, 65527 Niedernhausen"
+        },
+        {
+            "fullAddress": "Straße der Opfer des Fasch. 44, 99734 Nordhausen-Salza"
+        },
+        {
+            "fullAddress": "Mühlweg 4, 97720 Nüdlingen"
+        },
+        {
+            "fullAddress": "Oberwaldbehrunger Str. 20, 97656 Oberelsbach"
+        },
+        {
+            "fullAddress": "Gräfenrodaer Str. 7, 98559 Oberhof"
+        },
+        {
+            "fullAddress": "Epinay Platz 1, 61440 Oberursel"
+        },
+        {
+            "fullAddress": "Berliner Str. 178, 63067 Offenbach"
+        },
+        {
+            "fullAddress": "Große Marktstr. 36 - 42, 63065 Offenbach am Main"
+        },
+        {
+            "fullAddress": "Aschaffenburger Str. 24, 63073 Offenbach-Bieber"
+        },
+        {
+            "fullAddress": "Marktplatz 13, 99885 Ohrdruf"
+        },
+        {
+            "fullAddress": "Im See 1, 97846 Partenstein"
+        },
+        {
+            "fullAddress": "Edith-Stein-Str. 13, 36100 Petersberg"
+        },
+        {
+            "fullAddress": "Breitunger Str. 2 - 4, 36100 Petersberg"
+        },
+        {
+            "fullAddress": "Josef-Damian-Schmitt-Straße 1a, 36100 Petersberg-Marbach"
+        },
+        {
+            "fullAddress": "Schulstr. 2, 36100 Petersberg-Steinau"
+        },
+        {
+            "fullAddress": "Am Forsthaus 3, 36163 Poppenhausen"
+        },
+        {
+            "fullAddress": "Landstraße 9, 36169 Rasdorf"
+        },
+        {
+            "fullAddress": "Lise-Meitner-Straße 2, 64560 Riedstadt-Wolfskehlen"
+        },
+        {
+            "fullAddress": "Kronacher Str. 9, 96472 Rödental"
+        },
+        {
+            "fullAddress": "Braacher Str. 14 - 16, 36199 Rotenburg"
+        },
+        {
+            "fullAddress": "Hauptstr. 63, 97633 Saal"
+        },
+        {
+            "fullAddress": "Reinhardtstr. 56, 07318 Saalfeld"
+        },
+        {
+            "fullAddress": "Waldstr. 3, 96528 Schalkau"
+        },
+        {
+            "fullAddress": "Plettenberger Weg 17, 98553 Schleusingen"
+        },
+        {
+            "fullAddress": "Bruchwiesenweg 2, 36110 Schlitz"
+        },
+        {
+            "fullAddress": "Breitenbacher Str. 22, 36381 Schlüchtern"
+        },
+        {
+            "fullAddress": "Brückenstr. 3, 36157 Schmalnau"
+        },
+        {
+            "fullAddress": "Gabeler Str. 1 a, 98667 Schönbrunn"
+        },
+        {
+            "fullAddress": "Kasseler Str. 25, 34637 Schrecksbach"
+        },
+        {
+            "fullAddress": "An der oberen Halde 64, 73527 Schwäbisch Gmünd"
+        },
+        {
+            "fullAddress": "Vordere Schmiedgasse 22-28, 73525 Schwäbisch Gmünd"
+        },
+        {
+            "fullAddress": "Walkmühlenweg 9, 34613 Schwalmstadt/Treysa"
+        },
+        {
+            "fullAddress": "Zur Abtei 1, 97359 Schwarzach am Main"
+        },
+        {
+            "fullAddress": "Gretel-Baumbach-Str. 8, 97424 Schweinfurt-Niederwerrn"
+        },
+        {
+            "fullAddress": "Frankfurter Str. 96, 63500 Seligenstadt"
+        },
+        {
+            "fullAddress": "Beethovenstr. 9, 99706 Sondershausen"
+        },
+        {
+            "fullAddress": "Porstendorfer Str. 3, 35460 Staufenberg"
+        },
+        {
+            "fullAddress": "Brüder-Grimm-Str. 132, 36396 Steinau"
+        },
+        {
+            "fullAddress": "Heinz-Désor-Straße 3a, 36396 Steinau a.d.Str. OT Ulmbach"
+        },
+        {
+            "fullAddress": "Mühlstr. 52, 98587 Steinbach-Hallenberg OT Viernau"
+        },
+        {
+            "fullAddress": "Industriestr. 24, 63811 Stockstadt"
+        },
+        {
+            "fullAddress": "Heusteigstraße 41, 70180 Stuttgart"
+        },
+        {
+            "fullAddress": "Alarichstr. 4, 70469 Stuttgart"
+        },
+        {
+            "fullAddress": "Königstraße 26, 70173 Stuttgart, Königsbaupassagen"
+        },
+        {
+            "fullAddress": "Mailänder Platz 7, 70173 Stuttgart, Milaneo"
+        },
+        {
+            "fullAddress": "Epplestr. 14, 70597 Stuttgart-Degerloch"
+        },
+        {
+            "fullAddress": "Linsenhoferstr. 63, 98529 Suhl-Lautenberg"
+        },
+        {
+            "fullAddress": "Main-Taunus-Zentrum 1, 65843 Sulzbach"
+        },
+        {
+            "fullAddress": "St. Nikolaus Weg 13, 36142 Tann"
+        },
+        {
+            "fullAddress": "Krautgartenweg 6, 97941 Tauberbischofsheim"
+        },
+        {
+            "fullAddress": "Meininger Str. 6, 98660 Themar"
+        },
+        {
+            "fullAddress": "Friedrich-Ebert-Str. 90, 34613 Treysa"
+        },
+        {
+            "fullAddress": "Bahnhofstr. 27, 36414 Unterbreizbach"
+        },
+        {
+            "fullAddress": "Lachenbrunnweg 1, 97509 Unterspiesheim"
+        },
+        {
+            "fullAddress": "Rathausplatz 8 - 11, 34246 Vellmar"
+        },
+        {
+            "fullAddress": "Albert-Roller-Str.2/Fronackers, 71332 Waiblingen"
+        },
+        {
+            "fullAddress": "Fritz-Aßmuss-Str. 16, 98639 Walldorf"
+        },
+        {
+            "fullAddress": "Ibenhainer Str. 65, 99880 Waltershausen"
+        },
+        {
+            "fullAddress": "Rainer-Maria-Rilke-Str. 41, 99425 Weimar"
+        },
+        {
+            "fullAddress": "Damaschkestr. 1, 99425 Weimar"
+        },
+        {
+            "fullAddress": "Max-Planck-Str. 6, 64331 Weiterstadt"
+        },
+        {
+            "fullAddress": "Luisenstr. 23, 65185 Wiesbaden"
+        },
+        {
+            "fullAddress": "Dotzheimerstr. 82, 65197 Wiesbaden"
+        },
+        {
+            "fullAddress": "Richard-Wagner-Str. 86, 65193 Wiesbaden"
+        },
+        {
+            "fullAddress": "Fondetterstr. 26, 65207 Wiesbaden-Naurod"
+        },
+        {
+            "fullAddress": "Rheingaustr. 30, 65201 Wiesbaden-Schierstein"
+        },
+        {
+            "fullAddress": "An der Bohlenbrücke, 37213 Witzenhausen"
+        },
+        {
+            "fullAddress": "Biedrichstr. 13, 61200 Wölfersheim"
+        },
+        {
+            "fullAddress": "Schützeberger Str. 91, 34466 Wolfhagen"
+        },
+        {
+            "fullAddress": "Am Zehnthügel 2, 97230 Würzburg-Estenfeld"
+        },
+        {
+            "fullAddress": "Zeppelinstr. 122, 97074 Würzburg-Frauenland"
+        },
+        {
+            "fullAddress": "Schleifweg 9, 97084 Würzburg-Rottenbauer"
+        },
+        {
+            "fullAddress": "Virchowstr. 2, 97072 Würzburg-Sanderau"
+        },
+        {
+            "fullAddress": "Frankfurter Str. 18, 97082 Würzburg-Zellerau"
+        },
+        {
+            "fullAddress": "Benshäuser Str. 12, 98544 Zella-Mehlis OT Benshausen"
+        },
+        {
+            "fullAddress": "Ernst-Ihle-Str. 8, 34613 Ziegenhain"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "addresses": [
+        {
+            "fullAddress": "Marktpassage 23, 08301 Bad Schlema"
+        },
+        {
+            "fullAddress": "August-Christen-Str. 6, 25355 Barmstedt"
+        },
+        {
+            "fullAddress": "Bahnhofstraße 11, 04886 Beilrode"
+        },
+        {
+            "fullAddress": "Hohenzollerndamm 50A, 14199 Berlin"
+        },
+        {
+            "fullAddress": "Torfweg 4, 21614 Buxtehude"
+        },
+        {
+            "fullAddress": "Neefestraße 52 K, 09119 Chemnitz"
+        },
+        {
+            "fullAddress": "Oberfrohnaer Str. 66A, 09117 Chemnitz"
+        },
+        {
+            "fullAddress": "Zeißstraße 55, 09131 Chemnitz"
+        },
+        {
+            "fullAddress": "Hauptstraße 32, 02733 Cunewalde"
+        },
+        {
+            "fullAddress": "Breite Str. 21, 04838 Doberschütz"
+        },
+        {
+            "fullAddress": "Niedersedlitzer Platz 6, 01259 Dresden"
+        },
+        {
+            "fullAddress": "Keplerstraße 14, 01237 Dresden"
+        },
+        {
+            "fullAddress": "Lübberstedter Str. 2, 21272 Egestorf"
+        },
+        {
+            "fullAddress": "Torgauer Landstraße 18, 04838 Eilenburg"
+        },
+        {
+            "fullAddress": "Zeitzer Str. 143, 06729 Elsteraue"
+        },
+        {
+            "fullAddress": "Friedenstraße 23, 17179 Gnoien"
+        },
+        {
+            "fullAddress": "Waldstraße 1, 18586 Göhren"
+        },
+        {
+            "fullAddress": "Lange Str. 40-42, 17489 Greifswald"
+        },
+        {
+            "fullAddress": "Holländische Reihe 50, 22765 Hamburg"
+        },
+        {
+            "fullAddress": "August-Bebel-Straße 96, 21029 Hamburg"
+        },
+        {
+            "fullAddress": "Straße des Friedens 6, 04746 Hartha"
+        },
+        {
+            "fullAddress": "Bundesstraße 16A, 25856 Hattstedt"
+        },
+        {
+            "fullAddress": "Kaxdorfer Weg 1, 04916 Herzberg"
+        },
+        {
+            "fullAddress": "Flensburger Str. 58, 24975 Husby"
+        },
+        {
+            "fullAddress": "Nordseestr. 31, 25813 Husum"
+        },
+        {
+            "fullAddress": "Mittelstraße 8, 25862 Joldelund"
+        },
+        {
+            "fullAddress": "Querstraße 23-25, 24376 Kappeln"
+        },
+        {
+            "fullAddress": "Holtenauer Str. 111, 24105 Kiel"
+        },
+        {
+            "fullAddress": "Rungholtplatz 1-3, 24107 Kiel"
+        },
+        {
+            "fullAddress": "Am Bahnhof 4, 25924 Klanxbüll"
+        },
+        {
+            "fullAddress": "Rosenstraße 25, 25365 Klein Offenseth-Sparrieshoop"
+        },
+        {
+            "fullAddress": "Große Str. 19, 21769 Lamstedt"
+        },
+        {
+            "fullAddress": "Hauptstraße 22, 08134 Langenweißbach"
+        },
+        {
+            "fullAddress": "Leipziger Str. 22, 04838 Laußig"
+        },
+        {
+            "fullAddress": "Riemannstraße 1, 04107 Leipzig"
+        },
+        {
+            "fullAddress": "Jahnstraße 62, 04703 Leisnig"
+        },
+        {
+            "fullAddress": "Am Lossatal 34, 04808 Lossatal"
+        },
+        {
+            "fullAddress": "Karl-Marx-Straße 16, 04808 Falkenhain"
+        },
+        {
+            "fullAddress": "Schillerstraße 9, 15907 Lübben (Spreewald)"
+        },
+        {
+            "fullAddress": "Parkstraße 1, 01904 Neukirch/Lausitz"
+        },
+        {
+            "fullAddress": "Oberer Viebig 2, 02785 Olbersdorf"
+        },
+        {
+            "fullAddress": "Ernst-Thälmann Str. 13, 18347 Ostseebad Wustrow"
+        },
+        {
+            "fullAddress": "Nordermitteldeich 40, 25849 Pellworm"
+        },
+        {
+            "fullAddress": "Hauptstraße 117, 01734 Rabenau"
+        },
+        {
+            "fullAddress": "Rosa-Luxemburg-Platz 9, 01445 Radebeul"
+        },
+        {
+            "fullAddress": "Humboldtring 1, 01589 Riesa"
+        },
+        {
+            "fullAddress": "Markt 2, 04916 Schönewalde"
+        },
+        {
+            "fullAddress": "Compestr. 1, 21493 Schwarzenbek"
+        },
+        {
+            "fullAddress": "Norderstraße 106, 25980 Westerland"
+        },
+        {
+            "fullAddress": "Raanwai 26, 25980 Sylt"
+        },
+        {
+            "fullAddress": "Hauptstraße 32, 18586 Thiessow"
+        },
+        {
+            "fullAddress": "Eilenburger Str. 2, 04860 Torgau"
+        },
+        {
+            "fullAddress": "Bahnhofstraße 184, 07407 Uhlstädt-Kirchhasel"
+        },
+        {
+            "fullAddress": "Westerende 4 - 6, 25884 Vioel"
+        },
+        {
+            "fullAddress": "Flensburger Str. 15B, 24997 Wanderup"
+        },
+        {
+            "fullAddress": "Frauensteiner Str. 22, 09600 Weißenborn"
+        },
+        {
+            "fullAddress": "Clara-Zetkin-Straße 15, 04779 Wermsdorf"
+        },
+        {
+            "fullAddress": "Hartensteiner Str. 5B, 08134 Wildenfels"
+        },
+        {
+            "fullAddress": "Karl-Marx-Platz 3, 06895 Zahna-Elster"
+        }
+    ]
+}

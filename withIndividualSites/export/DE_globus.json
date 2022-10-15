@@ -1,0 +1,124 @@
+{
+    "addresses": [
+        {
+            "fullAddress": "Bahnstraße 15, 50181 Bedburg"
+        },
+        {
+            "fullAddress": "Querenburger Höhe 157, 44801 Bochum"
+        },
+        {
+            "fullAddress": "Im Neefepark 3, 09116 Chemnitz"
+        },
+        {
+            "fullAddress": "Weimarische Str. 117, 99098 Erfurt"
+        },
+        {
+            "fullAddress": "Willy-Brandt-Allee 1, 91301 Forchheim"
+        },
+        {
+            "fullAddress": "Traunsteiner Str. 6, 83395 Freilassing"
+        },
+        {
+            "fullAddress": "Binger Str. 1, 55457 Gensingen"
+        },
+        {
+            "fullAddress": "An der Beerweinschänke 2, 07554 Gera"
+        },
+        {
+            "fullAddress": "Dieselstraße 47, 06130 Halle"
+        },
+        {
+            "fullAddress": "Heddingheimer Str. 2-4, 65795 Hattersheim"
+        },
+        {
+            "fullAddress": "Adenauerplatz 2, 53773 Hennef (Sieg)"
+        },
+        {
+            "fullAddress": "Speyerer Str. 1, 68766 Hockenheim"
+        },
+        {
+            "fullAddress": "Neunmorgenstraße 8, 66424 Homburg"
+        },
+        {
+            "fullAddress": "Zwischen Wasser 13, 55743 Idar-Oberstein"
+        },
+        {
+            "fullAddress": "Merkurstraße 57, 67663 Kaiserslautern"
+        },
+        {
+            "fullAddress": "Eigelstein 80, 50668 Köln"
+        },
+        {
+            "fullAddress": "Neusser Str. 655 -667, 50737 Köln"
+        },
+        {
+            "fullAddress": "Brückenstraße 17, 56112 Lahnstein"
+        },
+        {
+            "fullAddress": "An der Passage 1, 04356 Leipzig"
+        },
+        {
+            "fullAddress": "Mundipharma Str. 1, 65549 Limburg"
+        },
+        {
+            "fullAddress": "Altenaer Str. 72, 58507 Lüdenscheid"
+        },
+        {
+            "fullAddress": "Oderstraße 6, 67071 Ludwigshafen"
+        },
+        {
+            "fullAddress": "Viktoriastr. 3, 44532 Lünen"
+        },
+        {
+            "fullAddress": "Industriestraße 6, 63477 Maintal"
+        },
+        {
+            "fullAddress": "Nordstraße 1, 04416 Markkleeberg"
+        },
+        {
+            "fullAddress": "Dr.-Walter-Bruch-Straße 1, 94447 Plattling"
+        },
+        {
+            "fullAddress": "Globusring 1, 18184 Roggentin"
+        },
+        {
+            "fullAddress": "Am Steinmarkt 1, 65428 Rüsselsheim am Main"
+        },
+        {
+            "fullAddress": "Wolfeck 4, 66130 Saarbrücken"
+        },
+        {
+            "fullAddress": "Am Wirthembösch 5, 66606 St. Wendel"
+        },
+        {
+            "fullAddress": "Am Brunnfeld 8, 92421 Schwandorf"
+        },
+        {
+            "fullAddress": "Argenthaler Str., 55469 Simmern"
+        },
+        {
+            "fullAddress": "Rathausstraße 53, 66333 Völklingen"
+        },
+        {
+            "fullAddress": "Main-Kinzig-Straße, 63607 Wächtersbach"
+        },
+        {
+            "fullAddress": "Taltitzer Str. 80, 08538 Weischlitz"
+        },
+        {
+            "fullAddress": "VIKTORIASTR. 5, 42929 Wermelskirchen"
+        },
+        {
+            "fullAddress": "Industriestraße 2, 35582 Wetzlar"
+        },
+        {
+            "fullAddress": "Ostring 2, 65205 Wiesbaden-Nordenstadt"
+        },
+        {
+            "fullAddress": "Zeitzer Str. 39, 06711 Zeitz"
+        },
+        {
+            "fullAddress": "Äussere Schneeberger Str. 100, 08056 Zwickau"
+        }
+    ]
+}
